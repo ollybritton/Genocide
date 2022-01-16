@@ -42,7 +42,6 @@ $(document).ready(function() {
             110000,
             40000,
             4000,
-            4400
         ];
 
         var genocide_times = [
@@ -73,7 +72,6 @@ $(document).ready(function() {
             1,
             3,
             30,
-            3
         ];
 
         let death_num = genocide_deaths[parseInt($(".select").val())];
